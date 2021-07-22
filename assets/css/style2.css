@@ -1,0 +1,31 @@
+div {
+    display: flex;
+    justify-content: space-evenly;
+    flex-wrap: wrap;
+    align-content: flex-start;
+    align-content: space-around;  
+}
+
+img {
+    height: 450px;
+    width: 450px;
+    padding: 1%;
+}
+
+
+body {
+    margin: 0;
+}
+
+a {
+    text-decoration: none;
+    background-color: grey;
+    color:white;
+    border: 1px solid lightgrey;
+    width: 130px;
+    text-align: center;
+  float: right;
+  padding: 0;
+  margin-right: 45%;
+
+}
